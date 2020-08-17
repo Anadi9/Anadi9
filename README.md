@@ -12,13 +12,10 @@ I work on React.js and Node.js.
 ***
 
 ## 📫 How to reach me:
-Visit my [Portfolio](https://anadi9.github.io/Portfolio/)
-
-Connect with me on [Linkedin](https://www.linkedin.com/in/anadi-thakur-92163316b/)
-
-Follow me on [Instagram](https://www.instagram.com/anadi_thakur_9/)
-
-WhatsApp me on [7466914279]()
-
-Send me an email [anadithakur99@gmail.com]()
-***
+<ul>
+  <li>Visit my [Portfolio](https://anadi9.github.io/Portfolio/)</li>
+  <li>Connect with me on [Linkedin](https://www.linkedin.com/in/anadi-thakur-92163316b/)</li>
+  <li>Follow me on [Instagram](https://www.instagram.com/anadi_thakur_9/)</li>
+  <li>WhatsApp me on [7466914279]()</li>
+  <li>Send me an email [anadithakur99@gmail.com]()</li>
+</ul>
