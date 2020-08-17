@@ -13,9 +13,9 @@ I work on React.js and Node.js.
 
 ## 📫 How to reach me:
 <ul>
-  <li>Visit my [Portfolio](https://anadi9.github.io/Portfolio/)</li>
-  <li>Connect with me on [Linkedin](https://www.linkedin.com/in/anadi-thakur-92163316b/)</li>
-  <li>Follow me on [Instagram](https://www.instagram.com/anadi_thakur_9/)</li>
-  <li>WhatsApp me on [7466914279]()</li>
-  <li>Send me an email [anadithakur99@gmail.com]()</li>
+  <li>Visit my <a href="https://anadi9.github.io/Portfolio/">portfolio</a></li>
+  <li>Connect with me on <a href="https://www.linkedin.com/in/anadi-thakur-92163316b/">Linkedin</a></li>
+  <li>Follow me on <a href="https://www.instagram.com/anadi_thakur_9/">Instagram</a></li>
+  <li>WhatsApp me on <a>7466914279</a></li>
+  <li>Send me an email <a href="mailto:anadithakur99@gmail.com">anadithakur99@gmail.com</a></li>
 </ul>
