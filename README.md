@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am [ANADI THAKUR](https://anadi9.github.io/Portfolio/), a passionate and determined developer from India.
+I am [Anadi Thakur](https://anadi9.github.io/Portfolio/), a passionate and determined developer from India.
 
 I work on React.js and Node.js.
 ***
