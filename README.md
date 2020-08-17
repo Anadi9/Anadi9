@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Anadi9/Anadi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am [ANADI THAKUR](https://anadi9.github.io/Portfolio/), a passionate and determined developer from India.
 
-Here are some ideas to get you started:
+I work on React.js and Node.js.
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skillset
+![reactjs](https://img.icons8.com/color/2x/react-native.png) ![nodejs](https://img.icons8.com/color/2x/nodejs.png)  ![mongodb](https://img.icons8.com/color/2x/mongodb.png) ![heroku](https://img.icons8.com/color/2x/heroku.png)
+
+![html](https://img.icons8.com/color/2x/html-5.png) ![css](https://img.icons8.com/color/2x/css3.png)  ![bootstrap](https://img.icons8.com/color/2x/bootstrap.png) ![javascript](https://img.icons8.com/color/2x/javascript.png)
+***
+
+## 📫 How to reach me:
+Visit my [Portfolio](https://anadi9.github.io/Portfolio/)
+
+Connect with me on [Linkedin](https://www.linkedin.com/in/anadi-thakur-92163316b/)
+
+Follow me on [Instagram](https://www.instagram.com/anadi_thakur_9/)
+
+WhatsApp me on [7466914279]()
+
+Send me an email [anadithakur99@gmail.com]()
+***
