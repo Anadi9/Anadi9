@@ -9,7 +9,14 @@ I work on React.js and Node.js.
 ![reactjs](https://img.icons8.com/color/1x/react-native.png) ![nodejs](https://img.icons8.com/color/1x/nodejs.png)  ![mongodb](https://img.icons8.com/color/1x/mongodb.png) ![heroku](https://img.icons8.com/color/1x/heroku.png) ![html](https://img.icons8.com/color/1x/html-5.png) ![css](https://img.icons8.com/color/1x/css3.png)  ![bootstrap](https://img.icons8.com/color/1x/bootstrap.png) ![javascript](https://img.icons8.com/color/1x/javascript.png)
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anadi9&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Anadi9&count_private=true&show_icons=true&theme=chartreuse-dark)
+
+*Working for improving Github's Stats*
+
 ***
 
 ## 📫 How to reach me:
