@@ -6,7 +6,7 @@ I work on React.js and Node.js.
 ***
 
 ## Skillset
-![reactjs](https://img.icons8.com/color/1x/react-native.png) ![nodejs](https://img.icons8.com/color/1x/nodejs.png)  ![mongodb](https://img.icons8.com/color/1x/mongodb.png) ![heroku](https://img.icons8.com/color/1x/heroku.png) ![html](https://img.icons8.com/color/1x/html-5.png) ![css](https://img.icons8.com/color/1x/css3.png)  ![bootstrap](https://img.icons8.com/color/1x/bootstrap.png) ![javascript](https://img.icons8.com/color/1x/javascript.png)
+![reactjs](https://img.icons8.com/color/1x/react-native.png) ![nodejs](https://img.icons8.com/color/1x/nodejs.png)  ![mongodb](https://img.icons8.com/color/1x/mongodb.png) ![heroku](https://img.icons8.com/color/1x/heroku.png) ![materialui](https://img.icons8.com/color/1x/material-ui.png) ![html](https://img.icons8.com/color/1x/html-5.png) ![css](https://img.icons8.com/color/1x/css3.png)  ![bootstrap](https://img.icons8.com/color/1x/bootstrap.png) ![javascript](https://img.icons8.com/color/1x/javascript.png) ![git](https://img.icons8.com/color/1x/git.png) ![github](https://img.icons8.com/material-outlined/2x/github.png) ![terminal](https://img.icons8.com/color/1x/console.png)
 ***
 
 *NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
