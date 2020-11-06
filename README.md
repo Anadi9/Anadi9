@@ -2,7 +2,7 @@
 
 I am [Anadi Thakur](https://anadi9.github.io/Portfolio/), a passionate and determined developer from India.
 
-I work on React.js and Node.js.
+I work on React.js, React-native, Nodejs, Expressjs, etc.
 ***
 
 ## Skillset
