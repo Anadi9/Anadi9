@@ -27,3 +27,8 @@ I work on React.js, React-native, Nodejs, Expressjs, etc.
   <li>WhatsApp me on <a>7466914279</a></li>
   <li>Send me an email <a href="mailto:anadithakur99@gmail.com">anadithakur99@gmail.com</a></li>
 </ul>
+
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/anadi9/count.svg" />
+</p>
