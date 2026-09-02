@@ -23,7 +23,7 @@ Most of my time goes into **TypeScript, Next.js, React / React Native and Node**
 ### What I'm up to
 
 - 🛠️ Building custom AI systems for growth-stage B2B teams
-- ✍️ Writing about shipping with AI at [theanta.com/blog](https://theanta.com/blog)
+- ✍️ Writing about AI & Automation and its applications at [anadithakur.in/notes](https://anadithakur.in/notes)
 - 🌱 Going deeper on agent architectures, evals and AI-first search (AEO)
 - 💬 Happy to talk about Next.js, LLM apps, or why your RAG pipeline is slow
 
